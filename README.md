@@ -11,5 +11,5 @@ relate to [cloud native](https://thenewstack.io/10-key-attributes-of-cloud-nativ
 I'll be doing 3 phases of commits here:
 
 * Initial: full-resolution screenshots of my first Google searches where I identified what I consider a problem (mostly complete with the initial commits June 16th 2020)
-* Markups: Here I'll take the first representative workflow diagram in the search results from each of the cloud providers and mark it up so that folks get an idea of what it *should* look like (Targeting completion for June 19th, 2020)
+* Markups: Here I'll take the first representative workflow diagram in the search results from each of the cloud providers and mark it up so that folks get an idea of what it *should* look like (added 7/2/2020)
 * Maintenance: As others have suggestions or requests this project may expand. Terraform or CloudFormation plans, perhaps? (ongoing. Pull requests accepted 😀)
